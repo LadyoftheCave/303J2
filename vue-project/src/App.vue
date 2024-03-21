@@ -11,6 +11,7 @@ import Footer from './components/Footer.vue'
 
     <!-- <div class="wrapper">
       <HelloWorld msg="You did it!" /> -->
+      <!-- dit is een comment-->
       <Header>      </Header>
 
 
